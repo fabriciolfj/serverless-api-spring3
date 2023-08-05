@@ -99,6 +99,6 @@ The [AWS Cloud Development Kit (AWS CDK)](https://aws.amazon.com/cdk/) is an ope
 - https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela3.png
 
 ## Telas
-https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela1.png
-https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela2.png
-https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela3.png
+<img src="https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela1.png" />
+<img src="https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela2.png" />
+<img src="https://github.com/fabriciolfj/serverless-api-spring3/blob/main/tela3.png" />
